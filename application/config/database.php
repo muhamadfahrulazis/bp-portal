@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
+	'hostname' => 'fahrulwebappserver.database.windows.net',
+	'username' => 'fahrul',
+	'password' => '@Basomalang21',
 	'database' => 'bpportal',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
